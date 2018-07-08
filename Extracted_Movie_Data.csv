@@ -1,0 +1,41 @@
+MovieTitle,Id,Production,Director,Runtime,Genre,Revenue,Rated,Language,ReleaseDate,Popularity,VoteCount,VoteAverage,Adult
+Jurassic World: Fallen Kingdom,351286,Universal Pictures,J.A. Bayona,128 min,"Action, Adventure, Sci-Fi",N/A,PG-13,"English, Russian",2018-06-06,299.795,1545,6.6,False
+Incredibles 2,260513,Disney/Pixar,Brad Bird,118 min,"Animation, Action, Adventure",N/A,PG,English,2018-06-14,197.17,756,7.7,False
+Ready Player One,333339,Warner Bros. Pictures,Steven Spielberg,140 min,"Action, Adventure, Sci-Fi",N/A,PG-13,English,2018-03-28,184.301,2650,7.7,False
+Thor: Ragnarok,284053,Walt Disney Pictures,Taika Waititi,130 min,"Action, Adventure, Comedy","$314,971,245",PG-13,English,2017-10-25,156.228,7113,7.5,False
+Ant-Man and the Wasp,363088,Walt Disney Pictures,Peyton Reed,118 min,"Action, Adventure, Sci-Fi",N/A,PG-13,English,2018-07-04,144.981,159,7.2,False
+Avengers: Infinity War,299536,Walt Disney Pictures,"Anthony Russo, Joe Russo",149 min,"Action, Adventure, Fantasy","$664,987,816",PG-13,English,2018-04-25,127.079,5416,8.4,False
+Rampage,427641,Warner Bros. Pictures,Brad Peyton,107 min,"Action, Adventure, Sci-Fi",N/A,PG-13,"English, Spanish",2018-04-12,123.693,1108,6,False
+Fifty Shades Freed,337167,Universal Pictures,James Foley,105 min,"Drama, Romance, Thriller","$95,599,460",R,English,2018-01-17,108.79,2210,6,False
+The First Purge,442249,Universal Pictures,Gerard McMurray,97 min,"Action, Horror, Sci-Fi",N/A,R,English,2018-07-04,103.16,76,6.3,False
+A Quiet Place,447332,Paramount Pictures,John Krasinski,90 min,"Drama, Horror, Sci-Fi",N/A,PG-13,"English, American Sign Language",2018-04-03,100.149,1861,7.2,False
+Jurassic World,135397,Universal Pictures,Colin Trevorrow,124 min,"Action, Adventure, Sci-Fi","$528,757,749",PG-13,English,2015-06-06,90.204,11399,6.5,False
+Tomb Raider,338970,Warner Bros. Pictures,Roar Uthaug,118 min,"Action, Adventure, Fantasy",N/A,PG-13,"English, Cantonese",2018-03-05,80.158,1993,6.2,False
+Truth or Dare,460019,Universal Pictures,Jeff Wadlow,100 min,"Horror, Thriller",N/A,PG-13,English,2018-04-12,79.806,515,6,False
+The Purge: Anarchy,238636,Universal Pictures,James DeMonaco,103 min,"Action, Horror, Sci-Fi",N/A,R,English,2014-07-17,77.501,2755,6.6,False
+The Purge,158015,Universal Pictures,James DeMonaco,85 min,"Horror, Thriller","$64,400,000",R,English,2013-05-31,76.545,3444,6.1,False
+Deadpool 2,383498,Twentieth Century Fox,David Leitch,119 min,"Action, Adventure, Comedy",N/A,R,English,2018-05-15,74.465,2833,7.6,False
+Black Panther,284054,Marvel Studios,Ryan Coogler,134 min,"Action, Adventure, Sci-Fi","$501,105,037",PG-13,"Swahili, Nama, English, Xhosa, Korean",2018-02-13,72.842,6600,7.3,False
+Qayamat: City Under Threat,318484,N/A,Harry Baweja,156 min,"Action, Adventure, Romance",N/A,NOT RATED,Hindi,2003-07-11,72.527,8,5.3,False
+Ant-Man,102899,Disney/Marvel,Peyton Reed,117 min,"Action, Adventure, Sci-Fi","$138,002,223",PG-13,English,2015-07-14,64.952,8363,7,False
+Pacific Rim: Uprising,268896,Universal Pictures,Steven S. DeKnight,111 min,"Action, Adventure, Sci-Fi",N/A,PG-13,"English, Mandarin, Cantonese",2018-03-21,62.555,1017,5.9,False
+Guardians of the Galaxy,118340,Walt Disney Pictures,James Gunn,121 min,"Action, Adventure, Sci-Fi","$270,592,504",PG-13,English,2014-07-30,57.068,13681,7.9,False
+The Avengers,24428,Walt Disney Pictures,Joss Whedon,143 min,"Action, Adventure, Sci-Fi","$623,279,547",PG-13,"English, Russian, Hindi",2012-04-25,56.691,15309,7.5,False
+Mission: Impossible - Fallout,353081,Paramount Pictures,Christopher McQuarrie,147 min,"Action, Adventure, Thriller",N/A,N/A,English,2018-07-25,51.133,5,0,False
+名探偵コナン ゼロの執行人,493006,N/A,Yuzuru Tachikawa,115 min,"Animation, Action, Adventure",N/A,N/A,Japanese,2018-04-13,51.067,4,4,False
+Star Wars: The Last Jedi,181808,Walt Disney Pictures,Rian Johnson,152 min,"Action, Adventure, Fantasy","$619,117,636",PG-13,English,2017-12-13,49.443,5905,7.1,False
+The Purge: Election Year,316727,Universal Pictures,James DeMonaco,108 min,"Action, Horror, Sci-Fi",N/A,R,English,2016-06-29,48.905,2027,6.2,False
+Mission: Impossible - Rogue Nation,177677,Paramount Pictures,Christopher McQuarrie,131 min,"Action, Adventure, Thriller","$154,979,949",PG-13,"English, Swedish, German",2015-07-23,48.779,4088,7.1,False
+Game Night,445571,New Line Cinema,"John Francis Daley, Jonathan Goldstein",100 min,"Comedy, Crime, Mystery","$33,537,766",R,English,2018-02-22,48.32,1111,6.9,False
+黄飞鸿之南北英雄,523873,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2018-10-19,47.129,1,0,False
+The Maze Runner,198663,20th Century Fox,Wes Ball,113 min,"Action, Mystery, Sci-Fi","$98,537,272",PG-13,English,2014-09-10,45.923,8282,7,False
+War for the Planet of the Apes,281338,20th Century Fox,Matt Reeves,140 min,"Action, Adventure, Drama","$146,872,826",PG-13,"English, American Sign Language",2017-07-11,45.016,3986,6.9,False
+Blockers,437557,Universal Pictures,Kay Cannon,102 min,Comedy,N/A,R,English,2018-03-14,44.244,297,6.3,False
+I Feel Pretty,460668,STXfilms,"Abby Kohn, Marc Silverstein",110 min,Comedy,N/A,PG-13,English,2018-04-19,44.065,146,6.2,False
+Twilight,8966,Summit Entertainment,Catherine Hardwicke,122 min,"Drama, Fantasy, Romance","$191,449,475",PG-13,English,2008-11-20,43.568,5332,5.9,False
+Justice League,141052,Warner Bros. Pictures,Zack Snyder,120 min,"Action, Adventure, Fantasy","$227,032,490",PG-13,"English, Irish, Russian, Icelandic",2017-11-15,42.115,4933,6.3,False
+Now You See Me 2,291805,Lionsgate,Jon M. Chu,129 min,"Action, Adventure, Comedy","$65,030,563",PG-13,"English, Mandarin, Cantonese",2016-06-02,41.964,4950,6.7,False
+Harry Potter and the Philosopher's Stone,671,Warner Bros. Pictures,Chris Columbus,152 min,"Adventure, Family, Fantasy","$317,557,891",PG,English,2001-11-16,41.918,10096,7.7,False
+Isle of Dogs,399174,Fox Searchlight Pictures,Wes Anderson,101 min,"Animation, Adventure, Comedy",N/A,PG-13,"English, Japanese",2018-03-23,41.635,578,7.9,False
+Geostorm,274855,Warner Bros. Pictures,Dean Devlin,109 min,"Action, Sci-Fi, Thriller","$33,681,965",PG-13,"English, Cantonese, Russian, Hindi, Spanish",2017-10-13,41.292,1515,5.8,False
+Sicario: Day of the Soldado,400535,N/A,Stefano Sollima,122 min,"Action, Crime, Drama",N/A,R,"English, Spanish",2018-06-27,41.229,99,6.7,False
